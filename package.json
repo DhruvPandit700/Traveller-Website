@@ -1,0 +1,14 @@
+{
+  "name": "tour-project-main",
+  "version": "1.0.0",
+  "description": "BCA Final Year Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pratyaksh Dubey",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.2"
+  }
+}
